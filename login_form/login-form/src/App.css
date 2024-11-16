@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+.form-group {
+
+  margin-left: 20%;
+}
+
+.form-123 {
+  background: linear-gradient(to right, #6d0bd6, #2575fc); /* Purple to Blue Gradient */
+  padding: 40px; /* Adds some padding around your form */
+  border-radius: 100px; /* Adds rounded corners */
+  box-shadow: 0 4px 8px rgba(73, 180, 31, 0.2);
+  
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+/* .btn btn-primary
+{
+  margin-left: 20%;
+} */
+.form-control
+{
+  width: 1000px;
+}
+.color22
+{
+color: blue;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+
+
+  
+}
